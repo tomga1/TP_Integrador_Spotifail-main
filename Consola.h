@@ -31,6 +31,8 @@ public:
     char validarChar();
     void limpiarBuffer();
     std::string rellenar(const std::string& texto, unsigned int longitud = 26);
+    std::string validarString();
+
 
 private:
     int _ancho_linea;

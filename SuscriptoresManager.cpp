@@ -212,23 +212,21 @@ void SuscriptoresManager::mostrarSuscriptor() {
 
 
 void SuscriptoresManager::cinNombre(Suscriptor &s) {
-    std::string nombre;
     std::cout << "Ingrese nombre: ";
-    std::cin.ignore();
-    getline(std::cin, nombre);
+    std::string nombre = _consola.validarString();
     s.setNombre(nombre);
 }
 
 void SuscriptoresManager::cinApellido(Suscriptor &s) {
-    std::string apellido;
     std::cout << "Ingrese apellido: ";
-    getline(std::cin, apellido);
+    std::string apellido = _consola.validarString();
     s.setApellido(apellido);
 }
 
 void SuscriptoresManager::cinDni(Suscriptor &s) {
     std::cout << "Ingrese DNI: ";
     int dni = _consola.validarInt(1);
+    _consola.limpiarBuffer();
     s.setDni(dni);
 }
 

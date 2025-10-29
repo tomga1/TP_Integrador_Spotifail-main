@@ -98,7 +98,7 @@ int Consola::validarInt(int minimo) {
     while (!(std::cin >> valor) || valor < minimo) {
         std::cin.clear();
         limpiarBuffer();
-        std::cout << "Error: Ingrese un numero mayor o igual a " << minimo << ".\n";
+        std::cout << "Intente nuevamente, Ingrese un numero mayor o igual a " << minimo << ": ";
     }
     return valor;
 }
@@ -182,6 +182,33 @@ char Consola::validarChar() {
     }
     return valor;
 }
+
+// Valida que se ingresen solamente letras o espacios, no mas que eso
+std::string Consola::validarString() {
+    std::string valor;
+    while (true) {
+        if (!std::getline(std::cin, valor)) {
+            std::cin.clear();
+            limpiarBuffer();
+            std::cout << "Error: Ingrese un texto válido.\n";
+            continue;
+        }
+        bool valido = true;
+        for (char c : valor) {
+            if ((c < 'A' || c > 'Z') && (c < 'a' || c > 'z') && c != ' ') {
+                valido = false;
+                break;
+            }
+        }
+        if (!valor.empty() && valido) {
+            return valor;
+        } else {
+            std::cout << "Ingrese nuevamente (solo letras): ";
+        }
+    }
+}
+
+
 
 void Consola::limpiarBuffer() {
     int aux;

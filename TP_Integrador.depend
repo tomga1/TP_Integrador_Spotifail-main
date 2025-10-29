@@ -609,7 +609,7 @@
 	<vector>
 	"SuscriptoresManager.h"
 
-1761667342 c:\tp_integrador_spotifail-main\consola.h
+1761710146 c:\tp_integrador_spotifail-main\consola.h
 	<iostream>
 	<string>
 	<cstring>
@@ -720,7 +720,7 @@
 1761673009 source:c:\tp_integrador_spotifail-main\cancionesmanager.cpp
 	"CancionesManager.h"
 
-1760700875 source:c:\tp_integrador_spotifail-main\consola.cpp
+1761711523 source:c:\tp_integrador_spotifail-main\consola.cpp
 	"Consola.h"
 
 1760699239 source:c:\tp_integrador_spotifail-main\fecha.cpp
@@ -787,7 +787,7 @@
 1761586304 source:c:\tp_integrador_spotifail-main\suscriptoresarchivo.cpp
 	"SuscriptoresArchivo.h"
 
-1761586897 source:c:\tp_integrador_spotifail-main\suscriptoresmanager.cpp
+1761711629 source:c:\tp_integrador_spotifail-main\suscriptoresmanager.cpp
 	"SuscriptoresManager.h"
 
 1760699239 source:c:\tp_integrador_spotifail-main\tiempo.cpp
