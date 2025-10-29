@@ -255,13 +255,53 @@ void SuscriptoresManager::cinEmail(Suscriptor &s) {
     s.setEmail(mail);
 }
 
+
 void SuscriptoresManager::cinFechaNacimiento(Suscriptor &s) {
     int d, m, a;
-    std::cout << "Ingrese fecha de nacimiento (D M A): ";
-    std::cin >> d >> m >> a;
+    while (true){
+        std::cout << "Ingrese dia de nacimiento (1 al 31): ";
+        std::cin >> d;
+
+        if (d >= 1 && d <= 31){
+            break;
+        }
+        else {
+            std::cout << "Dia invalido. Intente nuevamente.\n";
+            std::cin.clear();
+            std::cin.ignore(10000, '\n');
+        }
+    }
+
+    while (true) {
+        std::cout << "Ingrese mes de nacimiento (1 al 12): ";
+        std::cin >> m;
+
+        if (m >= 1 && m <= 12) {
+            break;
+        } else {
+            std::cout << "Mes invalido. Intente nuevamente.\n";
+            std::cin.clear();
+            std::cin.ignore(10000, '\n');
+        }
+    }
+
+    while (true) {
+        std::cout << "Ingrese anio de nacimiento (por ejemplo 1995): ";
+        std::cin >> a;
+
+        if (a >= 1900 && a <= 2100) {
+            break;
+        } else {
+            std::cout << "Anio invalido. Intente nuevamente.\n";
+            std::cin.clear();
+            std::cin.ignore(10000, '\n');
+        }
+    }
     Fecha f(d, m, a);
     s.setFechaNacimiento(f);
 }
+
+
 
 void SuscriptoresManager::cinEstado(Suscriptor &s) {
     s.setInactivo(!s.getInactivo());
