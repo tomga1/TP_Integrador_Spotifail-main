@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TP_Integrador" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TP_Integrador" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../TP_Integrador" />
+					<Add directory="../TP_Integrador_Spotifail-main" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TP_Integrador" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../TP_Integrador" />
+					<Add directory="../TP_Integrador_Spotifail-main" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Acceso.cpp" />
+		<Unit filename="Acceso.h" />
+		<Unit filename="AccesosArchivo.cpp" />
+		<Unit filename="AccesosArchivo.h" />
+		<Unit filename="AccesosManager.cpp" />
+		<Unit filename="AccesosManager.h" />
+		<Unit filename="Album.cpp" />
+		<Unit filename="Album.h" />
+		<Unit filename="AlbumCancion.cpp" />
+		<Unit filename="AlbumCancion.h" />
+		<Unit filename="AlbumsArchivo.cpp" />
+		<Unit filename="AlbumsArchivo.h" />
+		<Unit filename="AlbumsManager.cpp" />
+		<Unit filename="AlbumsManager.h" />
+		<Unit filename="Cancion.cpp" />
+		<Unit filename="Cancion.h" />
+		<Unit filename="CancionesArchivo.cpp" />
+		<Unit filename="CancionesArchivo.h" />
+		<Unit filename="CancionesManager.cpp" />
+		<Unit filename="CancionesManager.h" />
+		<Unit filename="Consola.cpp" />
+		<Unit filename="Consola.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="FechaTiempo.cpp" />
+		<Unit filename="FechaTiempo.h" />
+		<Unit filename="Genero.cpp" />
+		<Unit filename="Genero.h" />
+		<Unit filename="GenerosArchivo.cpp" />
+		<Unit filename="GenerosArchivo.h" />
+		<Unit filename="GenerosManager.cpp" />
+		<Unit filename="GenerosManager.h" />
+		<Unit filename="Interprete.cpp" />
+		<Unit filename="Interprete.h" />
+		<Unit filename="InterpretesArchivo.cpp" />
+		<Unit filename="InterpretesArchivo.h" />
+		<Unit filename="InterpretesManager.cpp" />
+		<Unit filename="InterpretesManager.h" />
+		<Unit filename="PlayList.cpp" />
+		<Unit filename="PlayList.h" />
+		<Unit filename="PlayListCancion.cpp" />
+		<Unit filename="PlayListCancion.h" />
+		<Unit filename="Spotifail.cpp" />
+		<Unit filename="Spotifail.h" />
+		<Unit filename="Suscriptor.cpp" />
+		<Unit filename="Suscriptor.h" />
+		<Unit filename="SuscriptoresArchivo.cpp" />
+		<Unit filename="SuscriptoresArchivo.h" />
+		<Unit filename="SuscriptoresManager.cpp" />
+		<Unit filename="SuscriptoresManager.h" />
+		<Unit filename="Tiempo.cpp" />
+		<Unit filename="Tiempo.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

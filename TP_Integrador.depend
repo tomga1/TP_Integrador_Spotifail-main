@@ -1,0 +1,795 @@
+# depslib dependency file v1.0
+1760446547 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\interprete.cpp
+	"Interprete.h"
+
+1760446464 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\interprete.h
+	<string>
+	<cstring>
+
+1760454208 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\main.cpp
+	<iostream>
+	<Interprete.h>
+	<Suscriptor.h>
+	<Cancion.h>
+	<Genero.h>
+	<PlayList.h>
+	<PlayListCancion.h>
+	<Album.h>
+	<AlbumCancion.h>
+	<Acceso.h>
+	<Tiempo.h>
+	<Spotifail.h>
+	<Consola.h>
+
+1760447627 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\suscriptor.cpp
+	"Suscriptor.h"
+
+1760447627 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\suscriptor.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1760447596 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\fecha.cpp
+	"Fecha.h"
+
+1760447596 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\fecha.h
+
+1760447596 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\fechatiempo.cpp
+	"FechaTiempo.h"
+
+1760447596 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\fechatiempo.h
+	"Fecha.h"
+	"Tiempo.h"
+
+1760450779 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\tiempo.h
+	<string>
+	<ctime>
+
+1760450791 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\tiempo.cpp
+	"Tiempo.h"
+
+1760447964 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\cancion.cpp
+	"Cancion.h"
+
+1760447964 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\cancion.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1760447964 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\genero.cpp
+	"Genero.h"
+
+1760447964 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\genero.h
+	<string>
+	<cstring>
+
+1760448807 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\playlist.cpp
+	"Playlist.h"
+
+1760448807 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\playlist.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1760448807 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\playlistcancion.cpp
+	"PlaylistCancion.h"
+
+1760448807 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\playlistcancion.h
+
+1760448940 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\album.cpp
+	"Album.h"
+
+1760448940 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\album.h
+	<string>
+	<cstring>
+
+1760448940 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\albumcancion.cpp
+	"AlbumCancion.h"
+
+1760448940 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\albumcancion.h
+
+1760449032 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\acceso.cpp
+	"Acceso.h"
+
+1760449032 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\acceso.h
+	"FechaTiempo.h"
+
+1760454300 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\consola.cpp
+	"Consola.h"
+
+1760454300 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\consola.h
+	<iostream>
+	<string>
+	<cstring>
+
+1760454361 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\spotifail.cpp
+	<iostream>
+	"Spotifail.h"
+
+1760453669 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp integrador\tp_integrador\spotifail.h
+	"Consola.h"
+
+1760449032 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\acceso.cpp
+	"Acceso.h"
+
+1760449032 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\acceso.h
+	"FechaTiempo.h"
+
+1760447596 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\fechatiempo.h
+	"Fecha.h"
+	"Tiempo.h"
+
+1760478359 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\fecha.h
+	<string>
+	<ctime>
+
+1760450779 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\tiempo.h
+	<string>
+	<ctime>
+
+1760448940 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\album.cpp
+	"Album.h"
+
+1760448940 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\album.h
+	<string>
+	<cstring>
+
+1760448940 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\albumcancion.cpp
+	"AlbumCancion.h"
+
+1760448940 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\albumcancion.h
+
+1760447964 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\cancion.cpp
+	"Cancion.h"
+
+1760447964 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\cancion.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1760454300 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\consola.cpp
+	"Consola.h"
+
+1760454300 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\consola.h
+	<iostream>
+	<string>
+	<cstring>
+
+1760478343 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\fecha.cpp
+	"Fecha.h"
+
+1760447596 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\fechatiempo.cpp
+	"FechaTiempo.h"
+
+1760447964 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\genero.cpp
+	"Genero.h"
+
+1760447964 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\genero.h
+	<string>
+	<cstring>
+
+1760446547 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\interprete.cpp
+	"Interprete.h"
+
+1760446464 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\interprete.h
+	<string>
+	<cstring>
+
+1760476512 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\main.cpp
+	<iostream>
+	<Spotifail.h>
+
+1760447627 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\suscriptor.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1760448807 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\playlist.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1760448807 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\playlistcancion.h
+
+1760478712 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\spotifail.h
+	"Consola.h"
+	"SuscriptoresManager.h"
+
+1760448807 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\playlist.cpp
+	"Playlist.h"
+
+1760448807 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\playlistcancion.cpp
+	"PlaylistCancion.h"
+
+1760478613 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\spotifail.cpp
+	<iostream>
+	"Spotifail.h"
+
+1760447627 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\suscriptor.cpp
+	"Suscriptor.h"
+
+1760450791 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\tiempo.cpp
+	"Tiempo.h"
+
+1760478400 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\suscriptoresmanager.cpp
+	"SuscriptoresManager.h"
+
+1760478427 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\suscriptoresmanager.h
+	<iostream>
+	<string>
+	"Suscriptor.h"
+	"SuscriptoresArchivo.h"
+	"Consola.h"
+
+1760477994 source:c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\suscriptoresarchivo.cpp
+	"SuscriptoresArchivo.h"
+
+1760479298 c:\users\lucio\onedrive\escritorio\utn\2° cuatrimestre 2025\progra ii\tp_integrador\suscriptoresarchivo.h
+	<string>
+	<iostream>
+	"Suscriptor.h"
+
+1760449032 source:c:\tp_integrador\tp_integrador\acceso.cpp
+	"Acceso.h"
+
+1760449032 c:\tp_integrador\tp_integrador\acceso.h
+	"FechaTiempo.h"
+
+1760447596 c:\tp_integrador\tp_integrador\fechatiempo.h
+	"Fecha.h"
+	"Tiempo.h"
+
+1760478359 c:\tp_integrador\tp_integrador\fecha.h
+	<string>
+	<ctime>
+
+1760450779 c:\tp_integrador\tp_integrador\tiempo.h
+	<string>
+	<ctime>
+
+1760448940 source:c:\tp_integrador\tp_integrador\album.cpp
+	"Album.h"
+
+1760448940 c:\tp_integrador\tp_integrador\album.h
+	<string>
+	<cstring>
+
+1760448940 source:c:\tp_integrador\tp_integrador\albumcancion.cpp
+	"AlbumCancion.h"
+
+1760448940 c:\tp_integrador\tp_integrador\albumcancion.h
+
+1760447964 source:c:\tp_integrador\tp_integrador\cancion.cpp
+	"Cancion.h"
+
+1760447964 c:\tp_integrador\tp_integrador\cancion.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1760454300 source:c:\tp_integrador\tp_integrador\consola.cpp
+	"Consola.h"
+
+1760454300 c:\tp_integrador\tp_integrador\consola.h
+	<iostream>
+	<string>
+	<cstring>
+
+1760478343 source:c:\tp_integrador\tp_integrador\fecha.cpp
+	"Fecha.h"
+
+1760447596 source:c:\tp_integrador\tp_integrador\fechatiempo.cpp
+	"FechaTiempo.h"
+
+1760447964 source:c:\tp_integrador\tp_integrador\genero.cpp
+	"Genero.h"
+
+1760447964 c:\tp_integrador\tp_integrador\genero.h
+	<string>
+	<cstring>
+
+1760446547 source:c:\tp_integrador\tp_integrador\interprete.cpp
+	"Interprete.h"
+
+1760446464 c:\tp_integrador\tp_integrador\interprete.h
+	<string>
+	<cstring>
+
+1760476512 source:c:\tp_integrador\tp_integrador\main.cpp
+	<iostream>
+	<Spotifail.h>
+
+1760478712 c:\tp_integrador\tp_integrador\spotifail.h
+	"Consola.h"
+	"SuscriptoresManager.h"
+
+1760478427 c:\tp_integrador\tp_integrador\suscriptoresmanager.h
+	<iostream>
+	<string>
+	"Suscriptor.h"
+	"SuscriptoresArchivo.h"
+	"Consola.h"
+
+1760447627 c:\tp_integrador\tp_integrador\suscriptor.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1760479298 c:\tp_integrador\tp_integrador\suscriptoresarchivo.h
+	<string>
+	<iostream>
+	"Suscriptor.h"
+
+1760448807 source:c:\tp_integrador\tp_integrador\playlist.cpp
+	"Playlist.h"
+
+1760448807 c:\tp_integrador\tp_integrador\playlist.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1760448807 source:c:\tp_integrador\tp_integrador\playlistcancion.cpp
+	"PlaylistCancion.h"
+
+1760448807 c:\tp_integrador\tp_integrador\playlistcancion.h
+
+1760478613 source:c:\tp_integrador\tp_integrador\spotifail.cpp
+	<iostream>
+	"Spotifail.h"
+
+1760447627 source:c:\tp_integrador\tp_integrador\suscriptor.cpp
+	"Suscriptor.h"
+
+1760477994 source:c:\tp_integrador\tp_integrador\suscriptoresarchivo.cpp
+	"SuscriptoresArchivo.h"
+
+1760478400 source:c:\tp_integrador\tp_integrador\suscriptoresmanager.cpp
+	"SuscriptoresManager.h"
+
+1760450791 source:c:\tp_integrador\tp_integrador\tiempo.cpp
+	"Tiempo.h"
+
+1760699239 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\acceso.cpp
+	"Acceso.h"
+
+1761650717 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\acceso.h
+	"FechaTiempo.h"
+
+1761667342 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\fechatiempo.h
+	"Fecha.h"
+	"Tiempo.h"
+
+1761667341 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\fecha.h
+	<string>
+	<ctime>
+
+1761667364 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\tiempo.h
+	<string>
+	<ctime>
+
+1760699239 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\album.cpp
+	"Album.h"
+
+1761650830 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\album.h
+	<string>
+	<cstring>
+
+1760699239 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\albumcancion.cpp
+	"AlbumCancion.h"
+
+1760699239 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\albumcancion.h
+
+1761243043 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\cancion.cpp
+	"Cancion.h"
+
+1761650597 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\cancion.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1760700875 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\consola.cpp
+	"Consola.h"
+
+1761667342 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\consola.h
+	<iostream>
+	<string>
+	<cstring>
+
+1760699239 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\fecha.cpp
+	"Fecha.h"
+
+1761587886 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\fechatiempo.cpp
+	"FechaTiempo.h"
+
+1760699239 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\genero.cpp
+	"Genero.h"
+
+1761650374 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\genero.h
+	<string>
+	<cstring>
+
+1760699239 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\interprete.cpp
+	"Interprete.h"
+
+1761650479 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\interprete.h
+	<string>
+	<cstring>
+
+1760699239 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\main.cpp
+	<iostream>
+	<Spotifail.h>
+
+1760699239 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\playlist.cpp
+	"Playlist.h"
+
+1761667341 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\playlist.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1760699239 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\playlistcancion.cpp
+	"PlaylistCancion.h"
+
+1761667342 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\playlistcancion.h
+
+1761674910 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\spotifail.cpp
+	<iostream>
+	"Spotifail.h"
+
+1761587928 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\spotifail.h
+	"Consola.h"
+	"SuscriptoresManager.h"
+	"AlbumsManager.h"
+	"CancionesManager.h"
+	"GenerosManager.h"
+	"InterpretesManager.h"
+	"AccesosManager.h"
+
+1761650259 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\suscriptoresmanager.h
+	<iostream>
+	<string>
+	"Suscriptor.h"
+	"SuscriptoresArchivo.h"
+	"Consola.h"
+
+1761650241 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\suscriptor.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1761650248 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\suscriptoresarchivo.h
+	<string>
+	<iostream>
+	"Suscriptor.h"
+
+1761586587 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\suscriptor.cpp
+	"Suscriptor.h"
+
+1761586304 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\suscriptoresarchivo.cpp
+	"SuscriptoresArchivo.h"
+
+1761586897 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\suscriptoresmanager.cpp
+	"SuscriptoresManager.h"
+
+1760699239 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\tiempo.cpp
+	"Tiempo.h"
+
+1761673054 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\albumsmanager.cpp
+	"AlbumsManager.h"
+
+1761672923 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\albumsmanager.h
+	<iostream>
+	<string>
+	"Album.h"
+	"AlbumsArchivo.h"
+	"Consola.h"
+	"Cancion.h"
+	"CancionesArchivo.h"
+	"CancionesManager.h"
+
+1761246973 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\albumsarchivo.cpp
+	"AlbumsArchivo.h"
+
+1761650830 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\albumsarchivo.h
+	<string>
+	<iostream>
+	"Album.h"
+
+1761584488 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\cancionesarchivo.cpp
+	"CancionesArchivo.h"
+
+1761650597 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\cancionesarchivo.h
+	<string>
+	<iostream>
+	"Cancion.h"
+
+1761673009 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\cancionesmanager.cpp
+	"CancionesManager.h"
+
+1761672982 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\cancionesmanager.h
+	"Cancion.h"
+	"CancionesArchivo.h"
+	"Consola.h"
+	"GenerosManager.h"
+	"InterpretesManager.h"
+	"Album.h"
+	"AlbumsArchivo.h"
+
+1761234275 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\generosarchivo.cpp
+	"GenerosArchivo.h"
+
+1761650374 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\generosarchivo.h
+	<string>
+	<iostream>
+	"Genero.h"
+
+1761233300 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\generosmanager.cpp
+	"GenerosManager.h"
+	<iostream>
+
+1761650374 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\generosmanager.h
+	"GenerosArchivo.h"
+	"Consola.h"
+	"Genero.h"
+
+1761234260 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\interpretesarchivo.cpp
+	"InterpretesArchivo.h"
+	<iostream>
+	<cstdio>
+
+1761650491 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\interpretesarchivo.h
+	"Interprete.h"
+	<string>
+
+1761234508 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\interpretesmanager.cpp
+	"InterpretesManager.h"
+	<iostream>
+
+1761650510 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\interpretesmanager.h
+	"InterpretesArchivo.h"
+	"Consola.h"
+	"Interprete.h"
+	"GenerosArchivo.h"
+
+1761674178 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\accesosarchivo.cpp
+	"AccesosArchivo.h"
+	<iostream>
+	<cstdio>
+
+1761650717 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\accesosarchivo.h
+	<string>
+	"Acceso.h"
+
+1761674581 source:c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\accesosmanager.cpp
+	"AccesosManager.h"
+	<iostream>
+	"FechaTiempo.h"
+
+1761674451 c:\users\admin\onedrive - randoncorp sa\escritorio\2\programacion ii 2025\tp_integrador_spotifail-main\tp_integrador_spotifail-main\accesosmanager.h
+	"AccesosArchivo.h"
+	"Consola.h"
+	<vector>
+	"SuscriptoresManager.h"
+
+1760699239 source:c:\tp_integrador_spotifail-main\acceso.cpp
+	"Acceso.h"
+
+1761650717 c:\tp_integrador_spotifail-main\acceso.h
+	"FechaTiempo.h"
+
+1761667342 c:\tp_integrador_spotifail-main\fechatiempo.h
+	"Fecha.h"
+	"Tiempo.h"
+
+1761667341 c:\tp_integrador_spotifail-main\fecha.h
+	<string>
+	<ctime>
+
+1761667364 c:\tp_integrador_spotifail-main\tiempo.h
+	<string>
+	<ctime>
+
+1761674178 source:c:\tp_integrador_spotifail-main\accesosarchivo.cpp
+	"AccesosArchivo.h"
+	<iostream>
+	<cstdio>
+
+1761650717 c:\tp_integrador_spotifail-main\accesosarchivo.h
+	<string>
+	"Acceso.h"
+
+1761674581 source:c:\tp_integrador_spotifail-main\accesosmanager.cpp
+	"AccesosManager.h"
+	<iostream>
+	"FechaTiempo.h"
+
+1761674451 c:\tp_integrador_spotifail-main\accesosmanager.h
+	"AccesosArchivo.h"
+	"Consola.h"
+	<vector>
+	"SuscriptoresManager.h"
+
+1761667342 c:\tp_integrador_spotifail-main\consola.h
+	<iostream>
+	<string>
+	<cstring>
+
+1761650259 c:\tp_integrador_spotifail-main\suscriptoresmanager.h
+	<iostream>
+	<string>
+	"Suscriptor.h"
+	"SuscriptoresArchivo.h"
+	"Consola.h"
+
+1761650241 c:\tp_integrador_spotifail-main\suscriptor.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1761650248 c:\tp_integrador_spotifail-main\suscriptoresarchivo.h
+	<string>
+	<iostream>
+	"Suscriptor.h"
+
+1760699239 source:c:\tp_integrador_spotifail-main\album.cpp
+	"Album.h"
+
+1761650830 c:\tp_integrador_spotifail-main\album.h
+	<string>
+	<cstring>
+
+1760699239 source:c:\tp_integrador_spotifail-main\albumcancion.cpp
+	"AlbumCancion.h"
+
+1760699239 c:\tp_integrador_spotifail-main\albumcancion.h
+
+1761246973 source:c:\tp_integrador_spotifail-main\albumsarchivo.cpp
+	"AlbumsArchivo.h"
+
+1761650830 c:\tp_integrador_spotifail-main\albumsarchivo.h
+	<string>
+	<iostream>
+	"Album.h"
+
+1761673054 source:c:\tp_integrador_spotifail-main\albumsmanager.cpp
+	"AlbumsManager.h"
+
+1761672923 c:\tp_integrador_spotifail-main\albumsmanager.h
+	<iostream>
+	<string>
+	"Album.h"
+	"AlbumsArchivo.h"
+	"Consola.h"
+	"Cancion.h"
+	"CancionesArchivo.h"
+	"CancionesManager.h"
+
+1761650597 c:\tp_integrador_spotifail-main\cancion.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1761650597 c:\tp_integrador_spotifail-main\cancionesarchivo.h
+	<string>
+	<iostream>
+	"Cancion.h"
+
+1761672982 c:\tp_integrador_spotifail-main\cancionesmanager.h
+	"Cancion.h"
+	"CancionesArchivo.h"
+	"Consola.h"
+	"GenerosManager.h"
+	"InterpretesManager.h"
+	"Album.h"
+	"AlbumsArchivo.h"
+
+1761650374 c:\tp_integrador_spotifail-main\generosmanager.h
+	"GenerosArchivo.h"
+	"Consola.h"
+	"Genero.h"
+
+1761650374 c:\tp_integrador_spotifail-main\generosarchivo.h
+	<string>
+	<iostream>
+	"Genero.h"
+
+1761650374 c:\tp_integrador_spotifail-main\genero.h
+	<string>
+	<cstring>
+
+1761650510 c:\tp_integrador_spotifail-main\interpretesmanager.h
+	"InterpretesArchivo.h"
+	"Consola.h"
+	"Interprete.h"
+	"GenerosArchivo.h"
+
+1761650491 c:\tp_integrador_spotifail-main\interpretesarchivo.h
+	"Interprete.h"
+	<string>
+
+1761650479 c:\tp_integrador_spotifail-main\interprete.h
+	<string>
+	<cstring>
+
+1761243043 source:c:\tp_integrador_spotifail-main\cancion.cpp
+	"Cancion.h"
+
+1761584488 source:c:\tp_integrador_spotifail-main\cancionesarchivo.cpp
+	"CancionesArchivo.h"
+
+1761673009 source:c:\tp_integrador_spotifail-main\cancionesmanager.cpp
+	"CancionesManager.h"
+
+1760700875 source:c:\tp_integrador_spotifail-main\consola.cpp
+	"Consola.h"
+
+1760699239 source:c:\tp_integrador_spotifail-main\fecha.cpp
+	"Fecha.h"
+
+1761587886 source:c:\tp_integrador_spotifail-main\fechatiempo.cpp
+	"FechaTiempo.h"
+
+1760699239 source:c:\tp_integrador_spotifail-main\genero.cpp
+	"Genero.h"
+
+1761234275 source:c:\tp_integrador_spotifail-main\generosarchivo.cpp
+	"GenerosArchivo.h"
+
+1761233300 source:c:\tp_integrador_spotifail-main\generosmanager.cpp
+	"GenerosManager.h"
+	<iostream>
+
+1760699239 source:c:\tp_integrador_spotifail-main\interprete.cpp
+	"Interprete.h"
+
+1761234260 source:c:\tp_integrador_spotifail-main\interpretesarchivo.cpp
+	"InterpretesArchivo.h"
+	<iostream>
+	<cstdio>
+
+1761234508 source:c:\tp_integrador_spotifail-main\interpretesmanager.cpp
+	"InterpretesManager.h"
+	<iostream>
+
+1760699239 source:c:\tp_integrador_spotifail-main\main.cpp
+	<iostream>
+	<Spotifail.h>
+
+1761587928 c:\tp_integrador_spotifail-main\spotifail.h
+	"Consola.h"
+	"SuscriptoresManager.h"
+	"AlbumsManager.h"
+	"CancionesManager.h"
+	"GenerosManager.h"
+	"InterpretesManager.h"
+	"AccesosManager.h"
+
+1760699239 source:c:\tp_integrador_spotifail-main\playlist.cpp
+	"Playlist.h"
+
+1761667341 c:\tp_integrador_spotifail-main\playlist.h
+	<string>
+	<cstring>
+	"Fecha.h"
+
+1760699239 source:c:\tp_integrador_spotifail-main\playlistcancion.cpp
+	"PlaylistCancion.h"
+
+1761667342 c:\tp_integrador_spotifail-main\playlistcancion.h
+
+1761674974 source:c:\tp_integrador_spotifail-main\spotifail.cpp
+	<iostream>
+	"Spotifail.h"
+
+1761586587 source:c:\tp_integrador_spotifail-main\suscriptor.cpp
+	"Suscriptor.h"
+
+1761586304 source:c:\tp_integrador_spotifail-main\suscriptoresarchivo.cpp
+	"SuscriptoresArchivo.h"
+
+1761586897 source:c:\tp_integrador_spotifail-main\suscriptoresmanager.cpp
+	"SuscriptoresManager.h"
+
+1760699239 source:c:\tp_integrador_spotifail-main\tiempo.cpp
+	"Tiempo.h"
+
