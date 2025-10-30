@@ -6,6 +6,8 @@
 #include "GenerosManager.h"
 #include "InterpretesManager.h"
 #include "AccesosManager.h"
+#include "InformesManager.h"
+
 
 class Spotifail {
 public:
@@ -23,4 +25,5 @@ private:
     InterpretesManager _interpreteManager;
     AccesosManager _accesosManager;
     Suscriptor usuario;
+    InformesManager _informes;
 };

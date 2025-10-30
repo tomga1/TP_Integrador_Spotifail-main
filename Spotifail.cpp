@@ -21,10 +21,12 @@ void Spotifail::run() {
         std::cout << "(4) ALBUMES\n";
         std::cout << "(5) UTILIDADES\n";
         _consola.imprimirLinea();
-        std::cout << "(6) ACERCA DE SPOTIFAIL\n";
+        std::cout << "(6) INFORMES\n";
+        _consola.imprimirLinea();
+        std::cout << "(7) ACERCA DE SPOTIFAIL\n";
         std::cout << "(0) SALIR\n";
 
-        seleccion = _consola.validarInt(0, 6);
+        seleccion = _consola.validarInt(0, 7);
 
         switch (seleccion) {
             case 1:
@@ -49,6 +51,9 @@ void Spotifail::run() {
                 break;
 
             case 6:
+                _informes.mostrarMenu();
+                break;
+            case 7:
                 about();
                 break;
         }
@@ -123,8 +128,8 @@ void Spotifail::about() {
     std::cout << "\n";
     std::cout << "Desarrolladores \n";
     std::cout << "Tomas Ezequiel Garcia, legajo 29780\n";
-    std::cout << "Lucio David Luque, legajo 29780\n";
-    std::cout << "Juan Manuel Tello, legajo 29780\n";
+    std::cout << "Lucio David Luque, legajo \n";
+    std::cout << "Juan Manuel Tello, legajo \n";
 
 
 
