@@ -120,6 +120,14 @@ void Spotifail::about() {
     _consola.limpiar();
     std::cout << "SPOTIFAIL ES UN PROYECTO DE PROGRAMACION II.\n";
     std::cout << "© 2025 Spotifail Music Systems\n";
+    std::cout << "\n";
+    std::cout << "Desarrolladores \n";
+    std::cout << "Tomas Ezequiel Garcia, legajo 29780\n";
+    std::cout << "Lucio David Luque, legajo 29780\n";
+    std::cout << "Juan Manuel Tello, legajo 29780\n";
+
+
+
     _consola.pausar();
     _consola.limpiar();
 }
