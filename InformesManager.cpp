@@ -15,6 +15,8 @@ void InformesManager::mostrarMenu() {
         _consola.limpiar();
         _consola.mostrarEncabezadoMenu("INFORMES");
         std::cout << "(1) CANTIDAD TOTAL DE ACCESOS POR SUSCRIPTOR\n";
+        std::cout << "(2) CANTIDAD TOTAL USUARIOS INACTIVOS\n";
+
         _consola.imprimirLinea();
         _consola.mostrarPieMenu();
 
@@ -23,6 +25,9 @@ void InformesManager::mostrarMenu() {
         switch (opcion) {
         case 1:
             informeCantidadAccesosPorSuscriptor();
+            break;
+        case 2:
+            informeUsuariosInactivos();
             break;
         }
 
@@ -57,6 +62,34 @@ void InformesManager::informeCantidadAccesosPorSuscriptor() {
 
     _consola.pausar();
 }
+
+void InformesManager::informeUsuariosInactivos() {
+    _consola.limpiar();
+    _consola.mostrarEncabezadoMenu("Informe: Suscriptores Inactivos");
+
+    int cantidad = _archivoSuscriptores.contarRegistros();
+    bool hayInactivos = false;  // bandera
+
+    for (int i = 0; i < cantidad; i++) {
+        Suscriptor s = _archivoSuscriptores.leer(i);
+
+        if (s.getInactivo()) {
+            std::cout << "ID: " << s.getIdSuscriptor()
+                      << " | Nombre: " << s.getNombre()
+                      << " | Apellido: " << s.getApellido()
+                      << std::endl;
+            hayInactivos = true;
+        }
+    }
+
+    if (!hayInactivos) {
+        std::cout << "No existen suscriptores inactivos.\n";
+    }
+
+    _consola.pausar();
+}
+
+
 
 
 /*

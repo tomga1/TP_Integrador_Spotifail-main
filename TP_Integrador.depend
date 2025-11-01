@@ -571,90 +571,90 @@
 	<vector>
 	"SuscriptoresManager.h"
 
-1760699239 source:c:\tp_integrador_spotifail-main\acceso.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\acceso.cpp
 	"Acceso.h"
 
-1761650717 c:\tp_integrador_spotifail-main\acceso.h
+1761967966 c:\tp_integrador_spotifail-main\acceso.h
 	"FechaTiempo.h"
 
-1761667342 c:\tp_integrador_spotifail-main\fechatiempo.h
+1761967966 c:\tp_integrador_spotifail-main\fechatiempo.h
 	"Fecha.h"
 	"Tiempo.h"
 
-1761667341 c:\tp_integrador_spotifail-main\fecha.h
+1761967966 c:\tp_integrador_spotifail-main\fecha.h
 	<string>
 	<ctime>
 
-1761667364 c:\tp_integrador_spotifail-main\tiempo.h
+1761967966 c:\tp_integrador_spotifail-main\tiempo.h
 	<string>
 	<ctime>
 
-1761674178 source:c:\tp_integrador_spotifail-main\accesosarchivo.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\accesosarchivo.cpp
 	"AccesosArchivo.h"
 	<iostream>
 	<cstdio>
 
-1761650717 c:\tp_integrador_spotifail-main\accesosarchivo.h
+1761967966 c:\tp_integrador_spotifail-main\accesosarchivo.h
 	<string>
 	"Acceso.h"
 
-1761674581 source:c:\tp_integrador_spotifail-main\accesosmanager.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\accesosmanager.cpp
 	"AccesosManager.h"
 	<iostream>
 	"FechaTiempo.h"
 
-1761674451 c:\tp_integrador_spotifail-main\accesosmanager.h
+1761967966 c:\tp_integrador_spotifail-main\accesosmanager.h
 	"AccesosArchivo.h"
 	"Consola.h"
 	<vector>
 	"SuscriptoresManager.h"
 
-1761710146 c:\tp_integrador_spotifail-main\consola.h
+1761967966 c:\tp_integrador_spotifail-main\consola.h
 	<iostream>
 	<string>
 	<cstring>
 
-1761650259 c:\tp_integrador_spotifail-main\suscriptoresmanager.h
+1761967966 c:\tp_integrador_spotifail-main\suscriptoresmanager.h
 	<iostream>
 	<string>
 	"Suscriptor.h"
 	"SuscriptoresArchivo.h"
 	"Consola.h"
 
-1761650241 c:\tp_integrador_spotifail-main\suscriptor.h
+1761967966 c:\tp_integrador_spotifail-main\suscriptor.h
 	<string>
 	<cstring>
 	"Fecha.h"
 
-1761650248 c:\tp_integrador_spotifail-main\suscriptoresarchivo.h
+1761967966 c:\tp_integrador_spotifail-main\suscriptoresarchivo.h
 	<string>
 	<iostream>
 	"Suscriptor.h"
 
-1760699239 source:c:\tp_integrador_spotifail-main\album.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\album.cpp
 	"Album.h"
 
-1761650830 c:\tp_integrador_spotifail-main\album.h
+1761967966 c:\tp_integrador_spotifail-main\album.h
 	<string>
 	<cstring>
 
-1760699239 source:c:\tp_integrador_spotifail-main\albumcancion.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\albumcancion.cpp
 	"AlbumCancion.h"
 
-1760699239 c:\tp_integrador_spotifail-main\albumcancion.h
+1761967966 c:\tp_integrador_spotifail-main\albumcancion.h
 
-1761246973 source:c:\tp_integrador_spotifail-main\albumsarchivo.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\albumsarchivo.cpp
 	"AlbumsArchivo.h"
 
-1761650830 c:\tp_integrador_spotifail-main\albumsarchivo.h
+1761967966 c:\tp_integrador_spotifail-main\albumsarchivo.h
 	<string>
 	<iostream>
 	"Album.h"
 
-1761673054 source:c:\tp_integrador_spotifail-main\albumsmanager.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\albumsmanager.cpp
 	"AlbumsManager.h"
 
-1761672923 c:\tp_integrador_spotifail-main\albumsmanager.h
+1761967966 c:\tp_integrador_spotifail-main\albumsmanager.h
 	<iostream>
 	<string>
 	"Album.h"
@@ -664,17 +664,17 @@
 	"CancionesArchivo.h"
 	"CancionesManager.h"
 
-1761650597 c:\tp_integrador_spotifail-main\cancion.h
+1761967966 c:\tp_integrador_spotifail-main\cancion.h
 	<string>
 	<cstring>
 	"Fecha.h"
 
-1761650597 c:\tp_integrador_spotifail-main\cancionesarchivo.h
+1761967966 c:\tp_integrador_spotifail-main\cancionesarchivo.h
 	<string>
 	<iostream>
 	"Cancion.h"
 
-1761672982 c:\tp_integrador_spotifail-main\cancionesmanager.h
+1761967966 c:\tp_integrador_spotifail-main\cancionesmanager.h
 	"Cancion.h"
 	"CancionesArchivo.h"
 	"Consola.h"
@@ -683,79 +683,79 @@
 	"Album.h"
 	"AlbumsArchivo.h"
 
-1761650374 c:\tp_integrador_spotifail-main\generosmanager.h
+1761967966 c:\tp_integrador_spotifail-main\generosmanager.h
 	"GenerosArchivo.h"
 	"Consola.h"
 	"Genero.h"
 
-1761650374 c:\tp_integrador_spotifail-main\generosarchivo.h
+1761967966 c:\tp_integrador_spotifail-main\generosarchivo.h
 	<string>
 	<iostream>
 	"Genero.h"
 
-1761650374 c:\tp_integrador_spotifail-main\genero.h
+1761967966 c:\tp_integrador_spotifail-main\genero.h
 	<string>
 	<cstring>
 
-1761650510 c:\tp_integrador_spotifail-main\interpretesmanager.h
+1761967966 c:\tp_integrador_spotifail-main\interpretesmanager.h
 	"InterpretesArchivo.h"
 	"Consola.h"
 	"Interprete.h"
 	"GenerosArchivo.h"
 
-1761650491 c:\tp_integrador_spotifail-main\interpretesarchivo.h
+1761967966 c:\tp_integrador_spotifail-main\interpretesarchivo.h
 	"Interprete.h"
 	<string>
 
-1761650479 c:\tp_integrador_spotifail-main\interprete.h
+1761967966 c:\tp_integrador_spotifail-main\interprete.h
 	<string>
 	<cstring>
 
-1761243043 source:c:\tp_integrador_spotifail-main\cancion.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\cancion.cpp
 	"Cancion.h"
 
-1761584488 source:c:\tp_integrador_spotifail-main\cancionesarchivo.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\cancionesarchivo.cpp
 	"CancionesArchivo.h"
 
-1761673009 source:c:\tp_integrador_spotifail-main\cancionesmanager.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\cancionesmanager.cpp
 	"CancionesManager.h"
 
-1761711523 source:c:\tp_integrador_spotifail-main\consola.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\consola.cpp
 	"Consola.h"
 
-1760699239 source:c:\tp_integrador_spotifail-main\fecha.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\fecha.cpp
 	"Fecha.h"
 
-1761587886 source:c:\tp_integrador_spotifail-main\fechatiempo.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\fechatiempo.cpp
 	"FechaTiempo.h"
 
-1760699239 source:c:\tp_integrador_spotifail-main\genero.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\genero.cpp
 	"Genero.h"
 
-1761234275 source:c:\tp_integrador_spotifail-main\generosarchivo.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\generosarchivo.cpp
 	"GenerosArchivo.h"
 
-1761233300 source:c:\tp_integrador_spotifail-main\generosmanager.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\generosmanager.cpp
 	"GenerosManager.h"
 	<iostream>
 
-1760699239 source:c:\tp_integrador_spotifail-main\interprete.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\interprete.cpp
 	"Interprete.h"
 
-1761234260 source:c:\tp_integrador_spotifail-main\interpretesarchivo.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\interpretesarchivo.cpp
 	"InterpretesArchivo.h"
 	<iostream>
 	<cstdio>
 
-1761234508 source:c:\tp_integrador_spotifail-main\interpretesmanager.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\interpretesmanager.cpp
 	"InterpretesManager.h"
 	<iostream>
 
-1760699239 source:c:\tp_integrador_spotifail-main\main.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\main.cpp
 	<iostream>
 	<Spotifail.h>
 
-1761790080 c:\tp_integrador_spotifail-main\spotifail.h
+1761967966 c:\tp_integrador_spotifail-main\spotifail.h
 	"Consola.h"
 	"SuscriptoresManager.h"
 	"AlbumsManager.h"
@@ -765,43 +765,43 @@
 	"AccesosManager.h"
 	"InformesManager.h"
 
-1760699239 source:c:\tp_integrador_spotifail-main\playlist.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\playlist.cpp
 	"Playlist.h"
 
-1761667341 c:\tp_integrador_spotifail-main\playlist.h
+1761967966 c:\tp_integrador_spotifail-main\playlist.h
 	<string>
 	<cstring>
 	"Fecha.h"
 
-1760699239 source:c:\tp_integrador_spotifail-main\playlistcancion.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\playlistcancion.cpp
 	"PlaylistCancion.h"
 
-1761667342 c:\tp_integrador_spotifail-main\playlistcancion.h
+1761967966 c:\tp_integrador_spotifail-main\playlistcancion.h
 
-1761790080 source:c:\tp_integrador_spotifail-main\spotifail.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\spotifail.cpp
 	<iostream>
 	"Spotifail.h"
 
-1761586587 source:c:\tp_integrador_spotifail-main\suscriptor.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\suscriptor.cpp
 	"Suscriptor.h"
 
-1761586304 source:c:\tp_integrador_spotifail-main\suscriptoresarchivo.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\suscriptoresarchivo.cpp
 	"SuscriptoresArchivo.h"
 
-1761789258 source:c:\tp_integrador_spotifail-main\suscriptoresmanager.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\suscriptoresmanager.cpp
 	"SuscriptoresManager.h"
 
-1760699239 source:c:\tp_integrador_spotifail-main\tiempo.cpp
+1761967966 source:c:\tp_integrador_spotifail-main\tiempo.cpp
 	"Tiempo.h"
 
-1761790888 c:\tp_integrador_spotifail-main\informesmanager.h
+1761969817 c:\tp_integrador_spotifail-main\informesmanager.h
 	"Consola.h"
 	"Suscriptor.h"
 	"Acceso.h"
 	"AccesosArchivo.h"
 	"SuscriptoresArchivo.h"
 
-1761790909 source:c:\tp_integrador_spotifail-main\informesmanager.cpp
+1761970111 source:c:\tp_integrador_spotifail-main\informesmanager.cpp
 	<iostream>
 	<map>
 	"InformesManager.h"

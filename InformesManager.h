@@ -12,6 +12,8 @@ public:
     InformesManager();
     void mostrarMenu();
     void informeCantidadAccesosPorSuscriptor();
+    void informeUsuariosInactivos();
+
 
 private:
     Consola _consola;
